@@ -1,24 +1,24 @@
 ============================================================
 METRO ATLANTA WEATHER PIPELINE — DAILY STATS
-Generated: 2026-11-04 07:00:17
+Generated: 2026-11-05 07:00:17
 ============================================================
 
 EXTINCT STATIONS  (>=30 consecutive days without new data)
 ------------------------------------------------------------
-  Cumulative total extinct:        320  /  2,119 stations
-  New extinct today:              -15
-  Currently active:              1,799
+  Cumulative total extinct:        321  /  2,119 stations
+  New extinct today:           +     1
+  Currently active:              1,798
 
   Source    Extinct    Total   New today
   --------  -------  -------  ----------
-  WU            281    1,476          +0
+  WU            282    1,476          +1
   AWN            37      620          +0
-  GDOT            2       17         -15
+  GDOT            2       17          +0
   UGA             0        6          +0
 
 AVERAGE YEARS OF DATA PER STATION
 ------------------------------------------------------------
-  WU          3.15 yrs / station   (1,195 active / 1,476 total)
+  WU          3.15 yrs / station   (1,194 active / 1,476 total)
   AWN         2.76 yrs / station   (583 active / 620 total)
   GDOT       10.38 yrs / station   (15 active / 17 total)
   UGA        22.74 yrs / station   (6 active / 6 total)
